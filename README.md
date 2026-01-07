@@ -1,7 +1,7 @@
 # Game Hub
 
 Game Hub is a frontend web application built with React that allows users to explore and interact with a collection of games.  
-This project is being developed as a guided, hands-on learning experience focused on modern frontend development.
+This project is being developed as a guided, hands-on learning experience focused on modern frontend development practices.
 
 ---
 
@@ -26,13 +26,12 @@ The goal of this project is to:
 
 ---
 
-## 📦 Features (Planned / In Progress)
+## 📦 Features
 
-- Browse and display games
+- Browse and display a list of games
 - Responsive and accessible UI using Chakra UI
-- Data fetching and state management
+- Data fetching with loading and error states
 - Filtering and search functionality
-- Error handling and loading states
 
 ---
 
